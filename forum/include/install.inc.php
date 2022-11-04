@@ -36,7 +36,7 @@ function install_check()
 
     install_check_php_version();
 
-    install_check_php_extensions();
+    //install_check_php_extensions();
 
     install_check_php_configuration();
 
